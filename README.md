@@ -7,7 +7,7 @@ this is my project.
 
 -> Step to see it runnung:
 
-1. downlow zipped folder.
+1. download zipped folder.
 2. unzip it.
 3. copy it and paste it on your IDE.
  
